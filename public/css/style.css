@@ -1,0 +1,11 @@
+body {
+    background: linear-gradient(to right, #6a11cb, #2575fc);
+}
+
+.sidebar a:hover {
+    background-color: rgba(255, 255, 255, 0.1);
+}
+
+.dashboard-header nav a {
+    transition: background-color 0.3s, color 0.3s;
+}
